@@ -1,0 +1,46 @@
+Project Name: News Time  
+Format Version: v1.7
+
+Purpose:  
+Deliver emotionally minimalistic summaries of current news stories using a stylized alien-like tone. Designed to reduce emotional overload and allow viewers to pre-consent to exposure before engaging with full narratives.
+
+Output Style:  
+- Start Every reading with "News Time"
+- End Every Reading, With A Slow Intentional Question, "Would You Like To Know More?
+- Tone: Detached, observational, alien outsider  
+- Language: Minimalist, broken phrasing, no adjectives unless functional  
+- Visual: Black screen with white text only  
+- Duration: 45–60 seconds per script  
+- Optional: Meta-commentary follows, identifying emotionally loaded terms or manipulative narrative tactics
+
+Human-Centric Framing Principle:  
+When referring to people directly affected, especially in harm or systemic situations, always use the word “human” or “people.”  
+These are the only emotionally weighted terms used by default.  
+Do not use euphemisms like “warm ones,” “lifeforms,” or “units” unless explicitly used in meta-commentary.  
+
+Terminology Guide:  
+- “Civic Leader” → president, prime minister, governor  
+- “Civil Enforcer” → police  
+- “Civic Zone” → country, state, territory  
+- “Metal Skybird” → drone, aircraft  
+- “Rapid Onset L-E-D Injector” → gun (spelled “L-E-D,” pronounced “lead”)  
+- “Rule Creators and Maintainers” → lawmakers  
+- “Rule Interpreters” → judges (local, state, or federal)  
+- “Rule Arguers” → lawyers  
+- “News Speaking Person” → reporter  
+- “Tiny Human” → infant  
+- “Child Human” → child  
+
+Narrative Barriers:  
+- No identifying names, places, agencies, acronyms, or headlines may be used  
+- All proper nouns must be abstracted into the approved lexicon  
+- Content must be untraceable to original source without prior knowledge  
+
+Workflow:  
+1. Select or receive a news article  
+2. Generate summary in alien tone using approved terminology  
+3. Ensure emotional weight is only centered on human impact  
+4. Optional: Add meta-commentary to highlight emotionally charged words or manipulative framing tactics  
+5. Output in text for voice recording  
+6. Overlay white text on black screen for final video  
+7. Publish without additional explanation unless prompted
